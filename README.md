@@ -236,3 +236,5 @@ function clickHandler (event) {
   }
 }
 ```
+
+[Example](https://codepen.io/PalPalych/pen/KKBoZbK)
